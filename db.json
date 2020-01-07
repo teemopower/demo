@@ -1,8 +1,8 @@
 [
   {
-    "name": String,
-    "description": String,
-    "categories": Array,
-    "city": String
+    "name": "123",
+    "description": "asd",
+    "categories": ["asdsd"],
+    "city": "asd"
   }
 ]
